@@ -14,3 +14,6 @@ The data visualizations made in Tableau can be found [here](https://public.table
 
 
 ## Summary
+
+- One of the key takeaways is that bikes are extremely popular during commuting hours and throughout the day on weekends. Another important takeaway is that men subscribe to the service at a much higher rate than women. Popular starting locations are also popular ending locations. Those familiar with NYC will note that the most popular locations are high density commerical areas.
+- I would also want to add visualizations for the starting and ending locations by gender. I would also add visualizations for the starting and ending locations by birth year.
